@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ECommerce.Tests/obj
+/ECommerce.Tests/.vs
+/ECommerce.Tests/packages
+/ECommerce.Tests.4.7/obj
+/FeatureVectors/.vs/FeatureVectors
+/FeatureVectors/obj/Debug
+*.user
+/TestProject1/obj
